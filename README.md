@@ -114,4 +114,4 @@ Python, TensorFlow/Keras, MediaPipe, OpenCV, NumPy, scikit-learn, Matplotlib, Fl
 
 ## 11. Author
 
-`Your name` | `Your roll number / course` | `Your university`
+`Amna Khalid` | `BS (AI)` | `SZABIST`
